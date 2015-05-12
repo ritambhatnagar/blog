@@ -1,1 +1,0 @@
-<?php die("God is within you"); ?>
